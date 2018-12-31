@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>source/picture/a284043f1098974a0802bb10daa95acc.png</file>
+        <file>source/picture/flash.ico</file>
+        <file>source/picture/ironman.jpg</file>
+        <file>source/picture/ironman_meitu_1.jpg</file>
+        <file>source/picture/QQ截图20181127163555.png</file>
+        <file>source/picture/vchoice.png</file>
+        <file>source/picture/背景灰.png</file>
+        <file>source/picture/稿定设计导出-20181211-154931.png</file>
+        <file>source/picture/极简灰白微立体通用PPT模板2.png</file>
+    </qresource>
+</RCC>
